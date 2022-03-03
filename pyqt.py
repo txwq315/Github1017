@@ -56,7 +56,7 @@ if __name__ =='__main__':
 
     ui.setupUi(MainWindow)
     MainWindow.setWindowTitle("好便宜，你好")
-
+    print("hhhhaaa")
     MainWindow.show()
 
     sys.exit(app.exec_())
