@@ -58,5 +58,5 @@ if __name__ =='__main__':
     MainWindow.setWindowTitle("好便宜，你好")
     print("hhhhbbb")
     MainWindow.show()
-
+    print("hhhhccc")
     sys.exit(app.exec_())
